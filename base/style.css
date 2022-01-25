@@ -7,3 +7,13 @@ body {
     background-color: #fff;
 }
 
+#generatore .row {
+    min-height: 100px;
+}
+
+/*#generatore .col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}*/
+
